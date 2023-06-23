@@ -6,8 +6,8 @@
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/pokurt/GitGram",
-    "website": "https://github.com/pokurt/GitGram",
+    "repository": "https://github.com/StdKing/GitGram-1",
+    "website": "https://github.com/StdKing/GitGram-1",
     "success_url": "https://t.me/GitGramChat",
     "stack": "container",
     "env": {
